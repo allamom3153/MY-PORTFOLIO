@@ -207,7 +207,8 @@ img{
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 295px;
+    width: 1000px;
+    height: 500px;
 }
 
 /* ===== ABOUT =====*/
@@ -499,7 +500,7 @@ img{
         height: 640px;
     }
     .home__img {
-        width: 500px;
+        width: 700px;
         right: 24%;
     }
 }
